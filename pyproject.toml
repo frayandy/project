@@ -6,6 +6,8 @@ authors = ["Andrii Puziuk <frayandy@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+
+# some comment
 library = { git = "git@github.com:frayandy/library.git",  tag="0.0.1"}
 
 [tool.poetry.dev-dependencies]
